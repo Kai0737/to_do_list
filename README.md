@@ -5,7 +5,6 @@ A simple to do list i made as a small personal project during university.
 
 Welcome to my To-Do List App. This is a simple project I built using HTML, CSS, and JavaScript. It allows users to quickly add and remove tasks. The goal was to keep it clean, functional, and easy to use for everyday task management.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ Welcome to my To-Do List App. This is a simple project I built using HTML, CSS, 
 - Lightweight and responsive design
 - Works in any modern browser without the need for installations
 
----
 
 
 ## Technologies Used
