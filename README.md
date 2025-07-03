@@ -21,9 +21,6 @@ Technologies Used
 - CSS3 for styling
 - JavaScript (vanilla) for logic and interactivity
 
----
 
-## How to Run This Project Locally
 
-1. Clone the repository:
 
